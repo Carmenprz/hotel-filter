@@ -20,4 +20,17 @@ Execute script on the command line
 ```node
 # returns object
 node index
-```
+```node
+
+Expected output example
+```node
+{
+  'check-in date': '2022-02-08',
+  'check-out date': '2022-02-10',
+  'number of rooms': 1,
+  'number of adults': '2',
+  'number of children': '1',
+  'total guests': 3,
+  'language used': 'es'
+}
+```node
