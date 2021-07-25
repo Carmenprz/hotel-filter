@@ -17,13 +17,13 @@ npm i puppeteer
 
 ## Usage
 Execute script on the command line
-```node
+```bash
 # returns object
 node index
-```node
+```
 
 Expected output example
-```node
+```bash
 {
   'check-in date': '2022-02-08',
   'check-out date': '2022-02-10',
@@ -33,4 +33,4 @@ Expected output example
   'total guests': 3,
   'language used': 'es'
 }
-```node
+```
